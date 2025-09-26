@@ -14,7 +14,7 @@ I like playing games. Learning about cybersecurity. I also like messing with tec
 4. Go to sleep
 
 ========
-Text stuff
+##Text stuff
 *This is italic*
 _This is also italic_
 **This is bold**
@@ -27,9 +27,10 @@ _Always keep learning._
 __What you do__ speaks so loudly, I cannot hear what you say.
 
 =========
-Hyperlinks
+##Hyperlinks
+
 [Google](https://www.google.com)
-[Astros News]((https://www.mlb.com/astros)")
+[Astros News](https://www.mlb.com/astros)
 [Things][1]
 
 [1]: https://www.youtube.com/
