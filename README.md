@@ -15,6 +15,7 @@ I like playing games. Learning about cybersecurity. I also like messing with tec
 -------
 
 ##Text stuff
+
 *This is italic*
 _This is also italic_
 **This is bold**
