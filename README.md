@@ -12,6 +12,7 @@ I like playing games. Learning about cybersecurity. I also like messing with tec
 1. Brush teeth  
 2. Play a Game  
 4. Go to sleep
+
 ========
 Text stuff
 *This is italic*
