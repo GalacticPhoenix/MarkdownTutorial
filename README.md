@@ -13,7 +13,8 @@ I like playing games. Learning about cybersecurity. I also like messing with tec
 2. Play a Game  
 4. Go to sleep
 
-========
+=======
+
 ##Text stuff
 *This is italic*
 _This is also italic_
@@ -26,7 +27,8 @@ _Always keep learning._
 **The journey** of a thousand miles begins with **a single step.**  
 __What you do__ speaks so loudly, I cannot hear what you say.
 
-=========
+=======
+
 ##Hyperlinks
 
 [Google](https://www.google.com)
@@ -38,14 +40,16 @@ __What you do__ speaks so loudly, I cannot hear what you say.
 
 [1]: https://en.wikipedia.org/wiki/Abraham_Lincoln
 
-=========
+=======
+
 Images 
 
 <img src="https://i.pinimg.com/originals/df/0b/50/df0b503731870d60f371c55a5903857e.jpg" height="500px" width="100px">
 
 
 
-=========
+=======
+
 Tables
 | Terms     | Definitions                      | My Meaning                  |
 | :-------- | :------------------------------: | --------------------------: |
