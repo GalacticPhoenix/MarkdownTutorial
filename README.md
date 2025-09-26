@@ -30,4 +30,37 @@ __What you do__ speaks so loudly, I cannot hear what you say.
 Hyperlinks
 [Google](https://www.google.com)
 [Astros News]((https://www.mlb.com/astros)")
+[Things][1]
+
+[1]: https://www.youtube.com/
+[Abraham Lincoln][1]
+
+[1]: https://en.wikipedia.org/wiki/Abraham_Lincoln
+
+=========
+Images 
+
+<img src="https://i.pinimg.com/originals/df/0b/50/df0b503731870d60f371c55a5903857e.jpg" height="100px" width="200px">
+
+
+
+=========
+Tables
+| Terms     | Definitions                      | My Meaning                  |
+| :-------- | :------------------------------: | --------------------------: |
+| Algorithm | A process...                     | Step-by-step instructions   |
+| Variable  | A placeholder...                 | A box to store data         |
+| Function  | A block of code...               | Reusable mini-programs      |
+
+
+
+
+
+
+
+
+
+
+
+
 
