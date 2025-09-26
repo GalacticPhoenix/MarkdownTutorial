@@ -41,7 +41,7 @@ __What you do__ speaks so loudly, I cannot hear what you say.
 =========
 Images 
 
-<img src="https://i.pinimg.com/originals/df/0b/50/df0b503731870d60f371c55a5903857e.jpg" height="100px" width="200px">
+<img src="https://i.pinimg.com/originals/df/0b/50/df0b503731870d60f371c55a5903857e.jpg" height="500px" width="100px">
 
 
 
